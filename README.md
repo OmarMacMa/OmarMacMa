@@ -18,6 +18,6 @@ Languages and Tools:
 - 📊  Matplotlib Library
 
 You can reach me in:
-- 📧  [omarmcmy@gmail.com](omarmcmy@gmail.com "omarmcmy")
+- 📧  [omarmcmy@gmail.com](mailto:omarmcmy@gmail.com "omarmcmy")
 - 🔗  [LinkedIn](https://www.linkedin.com/in/-omarmacias-/ "-omarmacias-")
-- 📧  [a01635795@tec.mx](a01635795@tec.mx "a01635795")
+- 📧  a01635795@tec.mx

@@ -1,4 +1,4 @@
-Hi, I am Omar Macías a person who is passionate in learning and growing through challenging experiences, currently in the sophmore year of Computational Technologies Engineering at Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)
+Hi, I am Omar Macías a person who is passionate in learning and growing through challenging experiences, currently in the sophomore year of Computational Technologies Engineering at Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)
 
 My interests in the tech industry are:
 - 📈  Data Science

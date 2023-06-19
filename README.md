@@ -1,23 +1,26 @@
-Hi, I am Omar Macías a person who is passionate in learning and growing through challenging experiences, currently in the sophomore year of Computational Technologies Engineering at Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)
+# Hi, I'm Omar Macías! 👋
 
-My interests in the tech industry are:
-- 📈  Data Science
-- 🧠  Artificial Intelligence
-- 🛡️  Cybersecurity
-- 🤖  Machine Learning 
-- 🗄️  Backend
+I'm a passionate learner and aspiring Computer Science and Technology student at Tecnológico de Monterrey. Currently, I work as a Site Reliability Engineer at the MLH Fellowship and have previously gained experience as a full stack intern at Universal Scientific Industrial.
 
-Languages and Tools:
-- 🐍  Python
-- 🐀  C++
-- ⛰️  Basic MATLAB
-- 📂  Git
-- 🐧  Windows Subsystem for Linux
-- 🐼  Pandas Library
-- 🔣  Numpy Library
-- 📊  Matplotlib Library
+## Interests in the Tech Industry
 
-You can reach me in:
-- 📧  [omarmcmy@gmail.com](mailto:omarmcmy@gmail.com "omarmcmy")
-- 🔗  [LinkedIn](https://www.linkedin.com/in/-omarmacias-/ "-omarmacias-")
-- 📧  a01635795@tec.mx
+- 🗄️ Backend Development
+- 📈 Data Science
+- 🧠 Artificial Intelligence
+- 🛡️ Cybersecurity
+- 🤖 Machine Learning
+
+## Languages and Tools
+
+- 🐍 Python
+- 🐀 C++
+- ⛰️ PHP
+- 🦏 JavaScript
+- 🏗️ HTML
+- 📂 Git
+- 🐧 Windows Subsystem for Linux
+
+## Get in Touch
+
+- 📧 Email: [omarmcmy@gmail.com](mailto:omarmcmy@gmail.com)
+- 🔗 LinkedIn: [omarmacma](https://www.linkedin.com/in/omarmacma)
